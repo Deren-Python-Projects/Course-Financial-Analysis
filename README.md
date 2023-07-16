@@ -5,3 +5,4 @@ Udemy: Python for Financial Analysis and Algorithmic Trading
   - `conda activate pyfinance`
   - or
   - `source activate pyfinance`
+
